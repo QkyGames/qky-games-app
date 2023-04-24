@@ -1,0 +1,20 @@
+{
+  "games": [
+    {
+      "Name": "Tap Tap Shots",
+      "Category": "Action, Sport",
+      "Description": "Basketball Game",
+      "URL": "https://www.qkygames.com/tap-tap-shots",
+      "Icon": "",
+      "Orientation": "vertical"
+    },
+    {
+      "Name": "Rotate Soccer",
+      "Category": "Sport",
+      "Description": "Soccer Game",
+      "URL": "https://www.qkygames.com/rotate-soccer-1",
+      "Icon": "",
+      "Orientation": "horizontal"
+    }
+  ]
+}
