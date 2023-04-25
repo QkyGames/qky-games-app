@@ -5,16 +5,25 @@
       "Category": "Action, Sport",
       "Description": "Basketball Game",
       "URL": "https://www.qkygames.com/tap-tap-shots",
-      "Icon": "",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/tap_tap_shots.png",
       "Orientation": "vertical"
     },
     {
-      "Name": "Rotate Soccer",
-      "Category": "Sport",
-      "Description": "Soccer Game",
-      "URL": "https://www.qkygames.com/rotate-soccer-1",
-      "Icon": "",
-      "Orientation": "horizontal"
+      "Name": "Smiling Glass",
+      "Category": "Puzzke, Physics",
+      "Description": "Puzzle Game",
+      "URL": "",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/smiling_glass.png",
+      "Orientation": "vertical"
+    },
+    {
+      "Name": "Smiling Glass 2",
+      "Category": "Puzzke, Physics",
+      "Description": "Puzzle Game 2",
+      "URL": "",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/smiling_glass_2.png",
+      "Orientation": "vertical"
     }
+   
   ]
 }
