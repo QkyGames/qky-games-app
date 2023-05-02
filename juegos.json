@@ -10,7 +10,7 @@
     },
     {
       "Name": "Smiling Glass",
-      "Category": "Puzzke, Physics",
+      "Category": "Puzzle, Physics",
       "Description": "Puzzle Game",
       "URL": "",
       "Icon": "https://qkygames.github.io/qky-games-app/icons/smiling_glass.png",
@@ -18,10 +18,18 @@
     },
     {
       "Name": "Smiling Glass 2",
-      "Category": "Puzzke, Physics",
+      "Category": "Puzzle, Physics",
       "Description": "Puzzle Game 2",
       "URL": "",
       "Icon": "https://qkygames.github.io/qky-games-app/icons/smiling_glass_2.png",
+      "Orientation": "vertical"
+    },
+    {
+      "Name": "Beat Blades",
+      "Category": "Arcade, Action, Highscore",
+      "Description": "Playing the extremely reactive game Beat Blades involves a lot of blades floating around.To get high points, avoid the blades and hang on as long as you can. The blades have a brief window of opportunity before it explodes and hands you a coin. For additional powers, you can upgrade.",
+      "URL": "https://qkygames.github.io/qky-games-app/games/beat-blades/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/beat_blades.png",
       "Orientation": "vertical"
     }
    
