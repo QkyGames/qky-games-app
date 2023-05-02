@@ -31,6 +31,14 @@
       "URL": "https://qkygames.github.io/qky-games-app/games/beat-blades/",
       "Icon": "https://qkygames.github.io/qky-games-app/icons/beat_blades.png",
       "Orientation": "vertical"
+    },
+    {
+      "Name": "Gravity Soccer 3",
+      "Category": "Puzzle, Physics, Sport",
+      "Description": "Solve all Gravity Soccer levels using logic. Destroy blocks and manage to get the ball into the net, trying to get all stars.",
+      "URL": "https://qkygames.github.io/qky-games-app/games/gravity-soccer-3/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/gravity_soccer_3.png",
+      "Orientation": "horizontal"
     }
    
   ]
