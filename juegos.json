@@ -1,9 +1,18 @@
 {
   "games": [
+
+    {
+      "Name": "Beat Blades",
+      "Category": "Action, Highscore, Platform",
+      "Description": "Playing the extremely reactive game Beat Blades involves a lot of blades floating around.To get high points, avoid the blades and hang on as long as you can. The blades have a brief window of opportunity before it explodes and hands you a coin. For additional powers, you can upgrade.",
+      "URL": "https://qkygames.github.io/qkygames-app/beat-blades/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/beat_blades.png",
+      "Orientation": "vertical"
+    },
     {
       "Name": "Tap Tap Shots",
-      "Category": "Action, Sport",
-      "Description": "Basketball Game",
+      "Category": "Action, Sport, Highscore",
+      "Description": "Try to sink your balls into the\nnet as quickly as possible.",
       "URL": "https://qkygames.github.io/qkygames-app/tap-tap-shots/",
       "Icon": "https://qkygames.github.io/qky-games-app/icons/tap_tap_shots.png",
       "Orientation": "vertical"
@@ -11,35 +20,124 @@
     {
       "Name": "Smiling Glass",
       "Category": "Puzzle, Physics",
-      "Description": "Puzzle Game",
-      "URL": "",
+      "Description": "Smiling Glass – is a game in which you need to fill a glass with water. Fill the glass with water can be very difficult, you need avoid obstacles, spikes and more. FIll the specified amount of water in the glass to win the level.",
+      "URL": "https://qkygames.github.io/qkygames-app/smiling-glass/",
       "Icon": "https://qkygames.github.io/qky-games-app/icons/smiling_glass.png",
       "Orientation": "vertical"
     },
     {
-      "Name": "Smiling Glass 2",
-      "Category": "Puzzle, Physics",
-      "Description": "Puzzle Game 2",
-      "URL": "",
-      "Icon": "https://qkygames.github.io/qky-games-app/icons/smiling_glass_2.png",
+      "Name": "Draw Parking",
+      "Category": "Puzzle, Physics, Racing",
+      "Description": "Get ready for exciting parking game. Swipe to park cars and avoid car collision. Park your cars without colliding with each other. Amazing puzzle game with exciting game play. Find parking space and park cars.",
+      "URL": "https://qkygames.github.io/qkygames-app/draw-parking/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/draw_parking.png",
       "Orientation": "vertical"
     },
     {
-      "Name": "Beat Blades",
-      "Category": "Arcade, Action, Highscore",
-      "Description": "Playing the extremely reactive game Beat Blades involves a lot of blades floating around.To get high points, avoid the blades and hang on as long as you can. The blades have a brief window of opportunity before it explodes and hands you a coin. For additional powers, you can upgrade.",
-      "URL": "https://qkygames.github.io/qky-games-app/games/beat-blades/",
-      "Icon": "https://qkygames.github.io/qky-games-app/icons/beat_blades.png",
+      "Name": "Ball Runner",
+      "Category": "Skill, Arcade, Racing, Highscore",
+      "Description": "Ball Runner is the ultimate running game that will put your skills to the test. The farther you go, the faster your ball travels",
+      "URL": "https://qkygames.github.io/qkygames-app/ball-runner/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/ball_runner.png",
+      "Orientation": "vertical"
+    },
+    {
+      "Name": "Breacking Blocks",
+      "Category": "Arcade,Puzzle,Highscore",
+      "Description": "Breaking Blocks is a fun match-three game.",
+      "URL": "https://qkygames.github.io/qkygames-app/breacking-blocks/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/breacking_blocks.png",
+      "Orientation": "vertical"
+    },
+    {
+      "Name": "Bubble Pop",
+      "Category": "Puzzle,Arcade,Match",
+      "Description": "Bubble Pop is a cute puzzle game! Connect 3 or more similar Bubbles to reach the level objectives within the time limit.",
+      "URL": "https://qkygames.github.io/qkygames-app/bubble-pop/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/bubble_pop.png",
+      "Orientation": "vertical"
+    },
+    {
+      "Name": "Cannon Strike",
+      "Category": "Puzzle,Arcade,Shooter",
+      "Description": "Fill all the buckets with balls to complete a level. Use your finger to move various objects to change the direction of the balls you shoot. Aim smart!",
+      "URL": "https://qkygames.github.io/qkygames-app/cannon-strike/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/cannon_strike.png",
+      "Orientation": "vertical"
+    },
+    {
+      "Name": "Chicken Climbing",
+      "Category": "Action,Arcade,Highscore,Platform",
+      "Description": "How many times can you jump without hitting with angry chickens.",
+      "URL": "https://qkygames.github.io/qkygames-app/chicken-climbing/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/chicken_climbing.png",
+      "Orientation": "vertical"
+    },
+    {
+      "Name": "Cocktail Brain",
+      "Category": "Puzzle,Physics",
+      "Description": "Cocktail Brain - Fun 2D game for all players, in this game you need to fill a variety of glasses with orange juice but you need draw a line to move the juice to the glass.",
+      "URL": "https://qkygames.github.io/qkygames-app/cocktail-brain/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/cocktail_brain.png",
+      "Orientation": "vertical"
+    },
+    {
+      "Name": "Cocktail Brain",
+      "Category": "Puzzle,Physics",
+      "Description": "Use your finger to cut the rope and release the ball. Put all the balls in the hoop to score and complete a level! To basket all the balls, you need to cut the rope, find the right time to slice or hit.",
+      "URL": "https://qkygames.github.io/qkygames-app/cut-and-dunk/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/cut_and_dunk.png",
+      "Orientation": "vertical"
+    },
+    {
+      "Name": "Draw Racing",
+      "Category": "Puzzle, Arcade, Racing",
+      "Description": "Start drawing from the car to make it run. Be careful, don't let the car collide with invisible obstacles, memorize the correct road.",
+      "URL": "https://qkygames.github.io/qkygames-app/draw-racing/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/draw_racing.png",
+      "Orientation": "vertical"
+    },
+    {
+      "Name": "Falling Lovers",
+      "Category": "Puzzle,Physics",
+      "Description": "Falling Lovers is an interesting game for skills. Rotate the blocks that holds the player and drop the boyfriends to reach the love.",
+      "URL": "https://qkygames.github.io/qkygames-app/falling-lovers/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/falling_lovers.png",
+      "Orientation": "vertical"
+    },
+    {
+      "Name": "Fast Balls",
+      "Category": "Arcade,Shooter",
+      "Description": "Fast Balls is a fun 3D online game with a cannon color balls shooting  to destroy the colorful stack tower.",
+      "URL": "https://qkygames.github.io/qkygames-app/fast-balls/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/fast_balls.png",
       "Orientation": "vertical"
     },
     {
       "Name": "Gravity Soccer 3",
-      "Category": "Puzzle, Physics, Sport",
+      "Category": "Puzzle,Physics,Sport",
       "Description": "Solve all Gravity Soccer levels using logic. Destroy blocks and manage to get the ball into the net, trying to get all stars.",
-      "URL": "https://qkygames.github.io/qky-games-app/games/gravity-soccer-3/",
+      "URL": "https://qkygames.github.io/qkygames-app/gravity-soccer-3/",
       "Icon": "https://qkygames.github.io/qky-games-app/icons/gravity_soccer_3.png",
       "Orientation": "horizontal"
+    },
+    {
+      "Name": "Jump Color",
+      "Category": "Arcade,Highscore",
+      "Description": "Bounce the ball on left or right wall and don't let to fall down. Collect the stars to get extra points and increase your highscore!",
+      "URL": "https://qkygames.github.io/qkygames-app/jump-color/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/jump_color.png",
+      "Orientation": "vertical"
+    },
+    {
+      "Name": "Kill the Dummy",
+      "Category": "Arcade,Highscore",
+      "Description": "Experience the thrill of setting a new high score in the endless Classic mode as you focus on dodging bombs and slicing massive dummies with the help of the powerful Saws.",
+      "URL": "https://qkygames.github.io/qkygames-app/kill-the-dummy/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/kill_the_dummy.png",
+      "Orientation": "vertical"
     }
+
    
   ]
 }
