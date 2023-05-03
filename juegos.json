@@ -1,6 +1,14 @@
 {
   "games": [
     {
+      "Name": "Math Breaker",
+      "Category": "Arcade, Platform",
+      "Description": "Math Breaker is a fun 2D platformer arcade platform game with a cute graphics.. There are platforms made of blocks with numbers and some with stars on it. Your goal is to collect those stars on that platform and jump to break it.",
+      "URL": "https://qkygames.github.io/qky-games-app/games/math-breaker/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/math_breaker.png",
+      "Orientation": "horizontal"
+    },
+    {
       "Name": "Beat Blades",
       "Category": "Action, Highscore, Platform",
       "Description": "Playing the extremely reactive game Beat Blades involves a lot of blades floating around.To get high points, avoid the blades and hang on as long as you can. The blades have a brief window of opportunity before it explodes and hands you a coin. For additional powers, you can upgrade.",
