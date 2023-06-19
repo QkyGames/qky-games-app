@@ -1,6 +1,14 @@
 {
   "games": [
     {
+      "Name": "Caveman Island",
+      "Category": "Shooter, Physics, Puzzle",
+      "Description": "Welcome to the Caveman Island! This hungry prehistoric elephant is hungry for food. Guide this wooly mammoths in throwing object from its snotty nose into blocks of platform structure to destroy it and crash down on the trapped food on it. Score point for each blocks destroyed and watch out for the shots remaining.",
+      "URL": "https://qkygames.github.io/qky-games-app/games/caveman-island/",
+      "Icon": "https://qkygames.github.io/qky-games-app/icons/caveman_island.png",
+      "Orientation": "horizontal"
+    },
+    {
       "Name": "Math Breaker",
       "Category": "Arcade, Platform",
       "Description": "Math Breaker is a fun 2D platformer arcade platform game with a cute graphics.. There are platforms made of blocks with numbers and some with stars on it. Your goal is to collect those stars on that platform and jump to break it.",
